@@ -1,2 +1,2 @@
-# Machine-Learning
-Machine Learning Path
+# Capstone-Project
+Capstone Project Bangkit 2022
